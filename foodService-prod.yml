@@ -2,5 +2,5 @@
 info:
   app:
     name: "Food Service"
-    description: "The Food Service is ready for Production."
+    description: "The Food Service is ready for Production. Git Version."
     version: "1.0 Production"
